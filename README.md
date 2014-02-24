@@ -6,7 +6,6 @@ Licencia: GPLV3.
 
 más información visite 
 http://www.avanet.org
-
-
+<img src="http://www.avanet.org/Data/Sites/1/logos/logo.png">
 Creado por William Méndez
 twitter: @willirocker
