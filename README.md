@@ -10,8 +10,8 @@ Creado por William Méndez
 twitter: <a href="https://twitter.com/willirocker">@willirocker</a>
 
 
-`Más información visite 
+Más información visite 
 
-<a href="http://www.avanet.org">Sitio de Avanet</a>`
+<a href="http://www.avanet.org">Sitio de Avanet</a>
 
 <img src="http://2.bp.blogspot.com/-Sg_vvsJq1jI/Uwpj4BdBBgI/AAAAAAAAHps/WT0Wveoqvgw/s1600/LogoBlog.png">
