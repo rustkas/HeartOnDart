@@ -11,4 +11,4 @@ twitter: @willirocker
 más información visite 
 http://www.avanet.org
 
-<img src="http://www.avanet.org/Data/Sites/1/logos/logo.png">
+<img src="http://2.bp.blogspot.com/-Sg_vvsJq1jI/Uwpj4BdBBgI/AAAAAAAAHps/WT0Wveoqvgw/s1600/LogoBlog.png">
