@@ -6,7 +6,9 @@
 
 import 'dart:html';
 import 'dart:math';
-
+/**
+ * Declaración de Variables
+ */
 const String Red = "red";
 const String Shadow = "black";
 const int canvasWith=400;
@@ -17,9 +19,16 @@ const int x_max = 3;
 const int y_max = 3;
 var dx = (x_max - x_min)/canvasWith;
 var dy = (y_max - y_min)/canvasHeigth;
+
+/**
+ * Seleccionamos nuestra etiqueta canvas del html
+ */
+
 final CanvasRenderingContext2D context =
       (querySelector("#canvas") as CanvasElement).context2D;
-
+/**
+ * Método con el cual se dibuja la gráfica de corazón en el canvas
+ */
 void DibujarCorazon(){
      for(var y= y_min; y<=y_max; y+=dy)
      {
@@ -41,6 +50,10 @@ void DibujarCorazon(){
        }
      } 
 }
+
+/**
+ * Método principal
+ */
 void main() {
   DibujarCorazon();
 }

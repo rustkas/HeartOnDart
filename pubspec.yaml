@@ -1,4 +1,6 @@
-name: PruebaCorazon
-description: A sample web application
+name: pruebacorazon
+author: William Méndez
+description: Corazón Creado con Google Dart
 dependencies:
-  browser: any
+  browser:
+    git: ''
