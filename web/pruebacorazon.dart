@@ -1,3 +1,9 @@
+/**
+ * Programa: Hearth on Dart v1.0
+ * Developer : William Méndez
+ * Licence: GPL V3
+ */
+
 import 'dart:html';
 import 'dart:math';
 
